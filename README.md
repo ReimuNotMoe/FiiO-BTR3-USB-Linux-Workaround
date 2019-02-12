@@ -22,7 +22,7 @@ In this way, pulseaudio will only use either 192kHz or 48kHz. This solves the pr
 
 
 ### ALSA howto
-Configure your software to use 44100 sample rate.
+Configure your software to use 48000 sample rate.
 
 ### Appendix
 `# cat /proc/asound/BTR3/stream0`
